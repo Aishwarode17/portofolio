@@ -9,16 +9,12 @@
     "build": "parcel build"
   },
   "repository": {
-    "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "type": "git"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Eaishawarya Malviya",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
-  },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://github.com/aishwarode17/portofolio",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "parcel": "^2.0.1",
